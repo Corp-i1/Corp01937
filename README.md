@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Corp01937
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and c#
